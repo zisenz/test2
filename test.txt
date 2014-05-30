@@ -16,3 +16,5 @@ added a new line
 native conflict in branch test/0.0.2...
 
 this is the rebase test
+
+this is the rebase test2
