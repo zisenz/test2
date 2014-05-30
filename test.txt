@@ -5,3 +5,4 @@ This is eclipse git test....
 This is edited in web
 I have to fix the second conflict..
 I have fixed the conflict
+This is the third conflict
