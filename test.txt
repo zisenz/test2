@@ -7,4 +7,5 @@ I have to fix the second conflict..
 I have fixed the conflict
 This is the third conflict
 I have to fix the third conflict..
+This is the fourth conflict..
 I have to fix the fourth conflict..
