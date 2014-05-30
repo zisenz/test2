@@ -10,3 +10,4 @@ I have to fix the third conflict..
 This is the fourth conflict..
 I have to fix the fourth conflict..
 I have to pull it into my workspace..
+I have to try to add this line away from master branch..
