@@ -14,3 +14,5 @@ I have to pull it into my workspace..
 added a new line
 
 native conflict in branch test/0.0.2...
+
+this is the rebase test
