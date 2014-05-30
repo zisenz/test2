@@ -15,4 +15,7 @@ added a new line
 
 native conflict in branch test/0.0.2...
 
+native conflict have to fix...
+
+
 this is the rebase test
