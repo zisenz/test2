@@ -15,13 +15,7 @@ added a new line
 
 native conflict in branch test/0.0.2...
 
-<<<<<<< HEAD
 this is the rebase test
 
 this is the rebase test2
-=======
-native conflict have to fix...
 
-
-this is the rebase test
->>>>>>> refs/heads/master
